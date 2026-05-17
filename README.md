@@ -1,13 +1,13 @@
 # Tugas Pertemuan 9 - Pengenalan Framework Laravel MVC
 
-**Nama:** Ramonaa Aprilia Yuniar 
-**NIM:** 60324039
-**Prodi:** Informatika
-**Semester:** 4
-**Repository:** [https://github.com/ramonaapriliayuniar55/Tugas-Pertemuan-9-PENGENALAN-FRAMEWORK-LARAVEL-MVC](https://github.com/ramonaapriliayuniar55/Tugas-Pertemuan-9-PENGENALAN-FRAMEWORK-LARAVEL-MVC)
+**Nama:** Ramonaa Aprilia Yuniar  
+**NIM:** 60324039  
+**Prodi:** Informatika  
+**Semester:** 4 
+**Mata Kuliah:** Pemrogramman Web II
+**Repository:** [Link GitHub](https://github.com/ramonaapriliayuniar55/Tugas-Pertemuan-9-PENGENALAN-FRAMEWORK-LARAVEL-MVC)
 
 ---
-
 
 ##  Tugas 1 - Routing dan View Anggota 
 
@@ -51,6 +51,7 @@
 
 #### 3. Hasil Search (`/kategori/search/programming`)
 ![Hasil Search](screenshots/hasilsearchprogramming.png)
+
 ---
 
 
